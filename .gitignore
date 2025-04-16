@@ -1,0 +1,11 @@
+```gitignore
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore sensitive files
+sotrydnufd.json
+employees.json
+
+# Ignore system files
+.DS_Store
