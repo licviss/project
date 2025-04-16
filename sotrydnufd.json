@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "arhivezadach",
+  "private_key_id": "0f80b89d4083fa5e2184b7d39acb16eb7248109d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwMjQWszAaJwJW\n2Vhn0ahoygLUs20u3OIK2lpk1wkyT+atj83m449g0a3gd1IMaYYgs4WCIUX6h26v\nQyEXQ3w3Jtcw1Ktw8mGKsMZv50SwRp1L4UedEFKROXaRVT2e45N7kuQeYJ2/sPVV\nL/STXPPj7QlDYH+C6IqKJ3V+dMeQyNU3OOrWmYB6ARBFVn1P6++XDUZVp2GFw6O4\nOYc0OOI9tf4y9Xa+TMrFNNGjbNX29eH0ewdYjVLONXMnZqjBUr+4LrGsiax4igNS\nU+cwyd4oOjZqodOe50PFRB9xd4lGiCbemkZfxU97kHnkbSKNtn19isYh/VZ9JnJ8\nLm+aR+xrAgMBAAECggEANNEfzywwv64w49LsTtbI2nyv443TrWgWNHWnAjJ5tcTA\n3AdPDCbr3HSOYEq0ZDcft17JJyyNOx/s/ImtejlHG4s/l4owyD9IIRiDq5jSfNr2\nHQBvhLQXZCQrGD7KpX4HwFPUoQyKTSOhL0OcV65WB92O2M0s/BN0MBzK+jjMd+hU\nuS2FvTFwMkxE+2mJCXZexaAD0avAVaazJYvW+fE+pu5nW1YPAZAldzQ9uqXFk8t4\n5oI/gSskCEaztnMbomKN7Qcc/QHPk+2sZ8VCrlDzWGgdNhR9BXglag2Tb8Yd57fj\nvKoTS0RdS2IOqy4LWso04v7H0W1l861j9mxknlejDQKBgQDVHZlAorWS8i45L23C\nctY7OogxO2ghzoVjRFCNQ1qIgSRdUvbbom6hXwtt47zR/oPpI8pP9PjMHUmVCE3z\nHAcGSbjpsqxc26es0WFS3tnOes4gYX5/WXWTXg9m2J2f1PFkueRtELjP9MscN9AK\nF3SwAegxdW1To/3oIekhM6HlNwKBgQDTpr1KtyYnF4DpKeen0aG7efP9YjxbHwcl\ne2ItWCsxZZzJIzdHl32dZxqOBCVRQZ63vspSchTuRNU4UDnC802ixqw5b2ZlTmiI\ndWtljQgP65zxtZZaLm3hCDrVLraWz1fJafqbepb6Pg9f6ZozxUAAiSILsJRsdp0Z\nxiFGaptMbQKBgQCt5Sz71MicUwjsmIrTM6kjQyuGIJdjnoSw7zlbSy5AXEAz9lJ/\n/RaQjmFhFYcpQqiYQCABBj9NLkiwVspkKOaCdv1vk9+ZFZLILUFgwX6wQPyY53S0\nrWaHDSU8Ilzb4oHmUtjVNePXrENfjxsuYN1SEPxJ/ytqKFIybBkyglMEGQKBgASc\nmXtLSlWHuZNbCmUpuDBxk9NtlIsXvfwfGCCMz0QgRq5LSiURM/d+C6IUjQucNm0i\nhx4Mxk/6x/qWJOwOiR6G3bHSr5R9hOGUTWbFD+vo4l6R6ljEsjg5Ca8jeW8HzY3h\n9Uf1/9wsBgG9AVMndSGN22QN0O4cF4g8PPVf1UpxAoGAL1Yv/pK+6ja3S8DED3lU\nd8ehbJx1O1Stx25EsyXG1kNR62Kb9oHvMIZkJnkbN1fbmHiWDbde9RrZXAFUbcxe\nLdMP2xNaobQbIWj5lLlOb5ZM1Tg+z9LIPsUQSq4B2q/0mWL1VpcYHiZS/5Td61P3\nt3r8Mtx0Osbqrzqn42KD26M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "klumneo-bot-account@arhivezadach.iam.gserviceaccount.com",
+  "client_id": "109715513460261458741",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/klumneo-bot-account%40arhivezadach.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
